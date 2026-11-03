@@ -29,13 +29,14 @@ Desenvolvedor **Python e JavaScript** em Maceió (AL). Ajudo pequenos negócios 
 
 ## Projetos em destaque
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [Caderno de Contas](https://github.com/jvieira11/gastos-app) | Controle financeiro pessoal com orçamento por categoria e gráficos | Flask, SQLite, Chart.js |
-| [CEP Finder](https://github.com/jvieira11/cep-finder) | Consulta de endereços por CEP com histórico salvo | FastAPI, PostgreSQL |
-| [To-do App](https://github.com/jvieira11/todo-app) | Gerenciador de tarefas com CRUD completo | FastAPI, PostgreSQL |
-| [Pokédex](https://github.com/jvieira11/UNSS_PROJ_EXPO_POKEDEX) | Catálogo de Pokémon com busca e consumo de API | React Native, Expo |
-| [Video Downloader](https://github.com/jvieira11/video-local-downloader) | Interface web para baixar vídeos, acessível pelo celular | Flask, yt-dlp |
+| Projeto | O que é | Stack | Demo |
+|---|---|---|---|
+| [Caderno de Contas](https://github.com/jvieira11/gastos-app) | Controle financeiro pessoal com orçamento por categoria e gráficos | Flask, SQLite, Chart.js | — |
+| [CEP Finder](https://github.com/jvieira11/cep-finder) | Consulta de endereços por CEP com histórico salvo | FastAPI, PostgreSQL | [▶ Abrir](https://jvieira11.github.io/cep-finder/) |
+| [Pokédex](https://github.com/jvieira11/UNSS_PROJ_EXPO_POKEDEX) | Catálogo de Pokémon com busca, detalhes e favoritos | React Native, Expo | [▶ Abrir](https://jvieira11.github.io/UNSS_PROJ_EXPO_POKEDEX/) |
+| [To-do App](https://github.com/jvieira11/todo-app) | Gerenciador de tarefas com CRUD completo | FastAPI, PostgreSQL | — |
+| [Lista de Tarefas](https://github.com/jvieira11/ToDoList) | Lista de tarefas em JavaScript puro | HTML, CSS, JS | [▶ Abrir](https://jvieira11.github.io/ToDoList/) |
+| [Video Downloader](https://github.com/jvieira11/video-local-downloader) | Interface web para baixar vídeos, acessível pelo celular | Flask, yt-dlp | — |
 
 ## Contato
 
