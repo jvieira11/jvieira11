@@ -32,7 +32,7 @@ Desenvolvedor **Python e JavaScript** em Maceió (AL). Ajudo pequenos negócios 
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
 | [mkd](https://github.com/jvieira11/mkd) | Converte PDF (inclusive escaneado, com OCR), Word, Excel, imagens e mais para Markdown, 100% no navegador | React, TypeScript, Tesseract.js | [▶ Abrir](https://mkd-convert.lovable.app) |
-| Doceria Flor de Cacau (demo) | Landing page de doceria fictícia com vitrine de produtos e pedido direto pelo WhatsApp | React, TypeScript, Tailwind | [▶ Abrir](https://docinhos-com-cacau-e-carinho.lovable.app) |
+| [Doceria Flor de Cacau](https://github.com/jvieira11/doceria-flor-de-cacau) (demo) | Landing page de doceria fictícia com vitrine de produtos e pedido direto pelo WhatsApp | React, TypeScript, Tailwind | [▶ Abrir](https://docinhos-com-cacau-e-carinho.lovable.app) |
 | [Caderno de Contas](https://github.com/jvieira11/gastos-app) | Controle financeiro pessoal com orçamento por categoria e gráficos | Flask, SQLite, Chart.js | — |
 | [CEP Finder](https://github.com/jvieira11/cep-finder) | Consulta de endereços por CEP com histórico salvo | FastAPI, PostgreSQL | [▶ Abrir](https://jvieira11.github.io/cep-finder/) |
 | [Pokédex](https://github.com/jvieira11/UNSS_PROJ_EXPO_POKEDEX) | Catálogo de Pokémon com busca, detalhes e favoritos | React Native, Expo | [▶ Abrir](https://jvieira11.github.io/UNSS_PROJ_EXPO_POKEDEX/) |
